@@ -1,0 +1,23 @@
+﻿/*.item { padding:20px 5px 20px 5px; margin:3px; border-bottom:1px dashed #a1a1a1; font-family:Verdana; font-size:9pt;  }
+span.date  { float:left; font-size:8pt; color:#aaa; margin-right:15px;}
+span.data  { float:left; width:510px;}
+input.cpBtn { float:right; }*/
+
+.wraper { margin:0 auto;}
+
+div.notice { margin:10px 0 0 15px; padding:0; font-family:Verdana; font-size:9pt; }
+
+div.inputPane { margin:10px; padding:10px; text-align:center; border:1px solid #a1a1a1; font-family:Verdana; font-size:9pt; }
+div.inputSubj { text-align:left; margin-bottom:5px; }
+#dataField { margin:0; width:100%; padding:0px; margin-bottom:10px; border:1px solid #a1a1a1; }
+#titleField { margin:0; width:100%; padding:0px; margin-bottom:10px; border:1px solid #a1a1a1; }
+input.submitBtn { width:100%; padding:10px;}
+
+#listPane { padding:10px 10px 30px 10px; margin:10px; border:1px solid #a1a1a1; font-family:Verdana; font-size:9pt; }
+.item { position:relative; padding:20px 5px 20px 5px; margin:3px; border-bottom:1px dashed #a1a1a1; font-family:Verdana; font-size:9pt;  }
+span.date  { font-size:8pt; color:#aaa; margin-right:10px;}
+span.title { font-size:10pt; font-weight:bold;}
+div.delBtn { float:right; text-align:center; font-size:9pt; color:#fff; background:#bbb;  padding:1px 4px 1px 4px; text-decoration:none; margin:-2px 0 0 0; }
+div.delBtn:hover {cursor:pointer; color:#666;}
+p.data  { clear:both; margin-top:8px; padding:0; width:100%; min-height:30px; font-size:9pt; word-wrap:break-word; }
+input.cpBtn { display:inherit; width:48%; margin:1% auto;}
